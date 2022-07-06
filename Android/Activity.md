@@ -1,4 +1,4 @@
-# About Activity
+# Interview Questions on Activity
 
 1. About Android as a component
    * It is a core component of android
